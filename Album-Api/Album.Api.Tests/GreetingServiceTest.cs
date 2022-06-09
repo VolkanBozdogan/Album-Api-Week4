@@ -16,7 +16,7 @@ namespace Album.Api.Tests
             //ACT
             var nameTest = GreetService.GetGreeting(name); //Check for Name
             //ASSERT
-            Assert.Equal($"Hello Salar from {Dns.GetHostName()} ", nameTest);
+            Assert.Equal($"Hello Salar from {Dns.GetHostName()}", nameTest);
         }
 
         [Fact]
