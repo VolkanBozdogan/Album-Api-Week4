@@ -25,16 +25,16 @@ jobs:
         find . -type f;
 
     - name: Restore dependencies
-      run: dotnet restore ./Album-api
+      run: dotnet restore ./Album-Api
 
     - name: Build
-      run: dotnet build ./Album-api --no-restore
+      run: dotnet build ./Album-Api --no-restore
 
     - name: Test
-      run: dotnet test ./Album-api --no-build --verbosity normal
+      run: dotnet test ./Album-Api --no-build --verbosity normal
 
     - name: Publish
-      run: dotnet publish ./Album-api -c Release -r linux-x64
+      run: dotnet publish ./Album-Api -c Release -r linux-x64
 
     - name: Prepare AWS
       uses: aws-actions/configure-aws-credentials@v1
