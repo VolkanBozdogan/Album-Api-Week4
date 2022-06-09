@@ -16,7 +16,7 @@ namespace Album.Api.Services
                 return $"Hello World";
             }
             Program.Log($"Return GetGreeting method : Hello {name}");
-            return $"Hello {name} from {Dns.GetHostName()} v2";
+            return $"Hello {name} from {Dns.GetHostName()}";
         }
 
     }
