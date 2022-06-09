@@ -1,0 +1,11 @@
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\Album.Api
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\appsettings.json
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\Album.Api.dll
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\Album.Api.deps.json
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\Album.Api.runtimeconfig.json
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\Album.Api.pdb
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\Microsoft.OpenApi.dll
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

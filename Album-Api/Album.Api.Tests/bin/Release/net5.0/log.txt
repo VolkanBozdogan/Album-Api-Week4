@@ -1,0 +1,7 @@
+[2022/06/07 01:08:28]	[GetGreeting method, parameter name = Leco]
+[2022/06/07 01:08:28]	[Return GetGreeting method : Hello Leco]
+[2022/06/07 01:08:33]	[GetGreeting method, parameter name = ]
+[2022/06/07 01:08:33]	[GetGreeting method, parameter name = ]
+[2022/06/07 01:08:33]	[GetGreeting method, parameter name = Leco]
+[2022/06/07 01:08:33]	[Return GetGreeting method : Hello Leco]
+[2022/06/07 01:08:33]	[GetGreeting method, parameter name =   ]

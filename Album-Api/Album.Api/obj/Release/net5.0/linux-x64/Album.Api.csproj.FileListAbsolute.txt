@@ -1,0 +1,84 @@
+C:\C#\album-api\Album.Api\bin\Release\net5.0\linux-x64\appsettings.Development.json
+C:\C#\album-api\Album.Api\bin\Release\net5.0\linux-x64\appsettings.json
+C:\C#\album-api\Album.Api\bin\Release\net5.0\linux-x64\Album.Api
+C:\C#\album-api\Album.Api\bin\Release\net5.0\linux-x64\Album.Api.deps.json
+C:\C#\album-api\Album.Api\bin\Release\net5.0\linux-x64\Album.Api.runtimeconfig.json
+C:\C#\album-api\Album.Api\bin\Release\net5.0\linux-x64\Album.Api.runtimeconfig.dev.json
+C:\C#\album-api\Album.Api\bin\Release\net5.0\linux-x64\Album.Api.dll
+C:\C#\album-api\Album.Api\bin\Release\net5.0\linux-x64\ref\Album.Api.dll
+C:\C#\album-api\Album.Api\bin\Release\net5.0\linux-x64\Album.Api.pdb
+C:\C#\album-api\Album.Api\bin\Release\net5.0\linux-x64\Microsoft.OpenApi.dll
+C:\C#\album-api\Album.Api\bin\Release\net5.0\linux-x64\Swashbuckle.AspNetCore.Swagger.dll
+C:\C#\album-api\Album.Api\bin\Release\net5.0\linux-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\C#\album-api\Album.Api\bin\Release\net5.0\linux-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\C#\album-api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\album-api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.AssemblyInfoInputs.cache
+C:\C#\album-api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.AssemblyInfo.cs
+C:\C#\album-api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.csproj.CoreCompileInputs.cache
+C:\C#\album-api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\C#\album-api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\C#\album-api\Album.Api\obj\Release\net5.0\linux-x64\staticwebassets\Album.Api.StaticWebAssets.Manifest.cache
+C:\C#\album-api\Album.Api\obj\Release\net5.0\linux-x64\staticwebassets\Album.Api.StaticWebAssets.xml
+C:\C#\album-api\Album.Api\obj\Release\net5.0\linux-x64\scopedcss\bundle\Album.Api.styles.css
+C:\C#\album-api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.RazorTargetAssemblyInfo.cache
+C:\C#\album-api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.csproj.CopyComplete
+C:\C#\album-api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.dll
+C:\C#\album-api\Album.Api\obj\Release\net5.0\linux-x64\ref\Album.Api.dll
+C:\C#\album-api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.pdb
+C:\C#\album-api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.genruntimeconfig.cache
+C:\dev\les 4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\appsettings.Development.json
+C:\dev\les 4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\appsettings.json
+C:\dev\les 4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\Album.Api
+C:\dev\les 4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\Album.Api.deps.json
+C:\dev\les 4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\Album.Api.runtimeconfig.json
+C:\dev\les 4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\Album.Api.runtimeconfig.dev.json
+C:\dev\les 4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\Album.Api.dll
+C:\dev\les 4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\ref\Album.Api.dll
+C:\dev\les 4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\Album.Api.pdb
+C:\dev\les 4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\Microsoft.OpenApi.dll
+C:\dev\les 4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\Swashbuckle.AspNetCore.Swagger.dll
+C:\dev\les 4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dev\les 4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.AssemblyInfoInputs.cache
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.AssemblyInfo.cs
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.csproj.CoreCompileInputs.cache
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\staticwebassets\Album.Api.StaticWebAssets.Manifest.cache
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\staticwebassets\Album.Api.StaticWebAssets.xml
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\scopedcss\bundle\Album.Api.styles.css
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.RazorTargetAssemblyInfo.cache
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.csproj.CopyComplete
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.dll
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\ref\Album.Api.dll
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.pdb
+C:\dev\les 4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.genruntimeconfig.cache
+C:\dev\lecture_4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\appsettings.Development.json
+C:\dev\lecture_4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\appsettings.json
+C:\dev\lecture_4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\Album.Api
+C:\dev\lecture_4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\Album.Api.deps.json
+C:\dev\lecture_4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\Album.Api.runtimeconfig.json
+C:\dev\lecture_4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\Album.Api.runtimeconfig.dev.json
+C:\dev\lecture_4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\Album.Api.dll
+C:\dev\lecture_4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\ref\Album.Api.dll
+C:\dev\lecture_4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\Album.Api.pdb
+C:\dev\lecture_4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\Microsoft.OpenApi.dll
+C:\dev\lecture_4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\Swashbuckle.AspNetCore.Swagger.dll
+C:\dev\lecture_4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dev\lecture_4\Album-Api\Album.Api\bin\Release\net5.0\linux-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\dev\lecture_4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\lecture_4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.AssemblyInfoInputs.cache
+C:\dev\lecture_4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.AssemblyInfo.cs
+C:\dev\lecture_4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.csproj.CoreCompileInputs.cache
+C:\dev\lecture_4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\dev\lecture_4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\lecture_4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\staticwebassets\Album.Api.StaticWebAssets.Manifest.cache
+C:\dev\lecture_4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\staticwebassets\Album.Api.StaticWebAssets.xml
+C:\dev\lecture_4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\scopedcss\bundle\Album.Api.styles.css
+C:\dev\lecture_4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.RazorTargetAssemblyInfo.cache
+C:\dev\lecture_4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.csproj.CopyComplete
+C:\dev\lecture_4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.dll
+C:\dev\lecture_4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\ref\Album.Api.dll
+C:\dev\lecture_4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.pdb
+C:\dev\lecture_4\Album-Api\Album.Api\obj\Release\net5.0\linux-x64\Album.Api.genruntimeconfig.cache
