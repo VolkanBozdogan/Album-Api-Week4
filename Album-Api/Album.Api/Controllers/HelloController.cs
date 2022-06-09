@@ -13,7 +13,7 @@ namespace Album.Api.Controllers
     {
         // GET: api/hello/{name}
         [HttpGet("api/[controller]")]
-        public IActionResult GetHello(string? name)
+        public IActionResult GetHello(string? name = "World")
         {
             Program.Log($"GetHello method, parameter name = {name}");
             //OPTIONAL: Create a new GreetingService object

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hm9bLB8+g8Iyqakjgjhh011A1fHi7NqYCPK4xiYZKFgkM8qcmjPzBVwMWKb4xypaiiotq9nEn+iVfxZJXSi+fA==",
+  "dgSpecHash": "bWIAB4L+/Xd8vnhWVzCJQCPDYn2mGcd5Eq6p7Dysl5w1WMSbuBM23HeYN2DEEj5uRgZCwrHVuoV8baaUMzf9Ng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Salar\\Downloads\\lecture_4\\Album-Api\\Album.Api.Tests\\Album.Api.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Salar\\Desktop\\Git\\Album-Api-Week4\\Album-Api\\Album.Api.Tests\\Album.Api.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Salar\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Salar\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
