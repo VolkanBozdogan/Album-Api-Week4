@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bWIAB4L+/Xd8vnhWVzCJQCPDYn2mGcd5Eq6p7Dysl5w1WMSbuBM23HeYN2DEEj5uRgZCwrHVuoV8baaUMzf9Ng==",
+  "dgSpecHash": "LnqzGcZGAqK8gjwUCbKg6ngh4HZ3cwzBNAXwcMXv9rC8/7HQrAxjZ1g1KTXYAuVWzhlQts+l6AeBK37jhTEWLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Salar\\Desktop\\Git\\Album-Api-Week4\\Album-Api\\Album.Api.Tests\\Album.Api.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Salar\\Documents\\GitHub\\Album-Api-Week4\\Album-Api\\Album.Api.Tests\\Album.Api.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Salar\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Salar\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
@@ -101,9 +101,7 @@
     "C:\\Users\\Salar\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
     "C:\\Users\\Salar\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
     "C:\\Users\\Salar\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
-    "C:\\Users\\Salar\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512",
-    "C:\\Users\\Salar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Salar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\Salar\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
   ],
   "logs": []
 }

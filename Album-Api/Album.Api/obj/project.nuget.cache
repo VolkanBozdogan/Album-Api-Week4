@@ -1,17 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "rrxd22G3OjQEOde4J/c68jPCQ+8XojZ6PvQc+7Lm5xsHs8FsWGfLo125GUNYR6qMi+o+7UJG6eGt+okrkXl+zA==",
+  "dgSpecHash": "rxG7N64LNdb5wi8rtyb96+CaKgmw6giS7AlWkDm7QxShsTt3FTc5Z4Kt3ojFc4VEOXqPrCyJalCzvzAhb7kh8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Salar\\Desktop\\Git\\Album-Api-Week4\\Album-Api\\Album.Api\\Album.Api.csproj",
+  "projectFilePath": "C:\\Users\\Salar\\Documents\\GitHub\\Album-Api-Week4\\Album-Api\\Album.Api\\Album.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Salar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Salar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Salar\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Salar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\Salar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\Salar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
-    "C:\\Users\\Salar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Salar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\Salar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Salar\\Desktop\\Git\\Album-Api-Week4\\Album-Api\\Album.Api\\Album.Api.csproj": {}
+    "C:\\Users\\Salar\\Documents\\GitHub\\Album-Api-Week4\\Album-Api\\Album.Api\\Album.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Salar\\Desktop\\Git\\Album-Api-Week4\\Album-Api\\Album.Api\\Album.Api.csproj": {
+    "C:\\Users\\Salar\\Documents\\GitHub\\Album-Api-Week4\\Album-Api\\Album.Api\\Album.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Salar\\Desktop\\Git\\Album-Api-Week4\\Album-Api\\Album.Api\\Album.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Salar\\Documents\\GitHub\\Album-Api-Week4\\Album-Api\\Album.Api\\Album.Api.csproj",
         "projectName": "Album.Api",
-        "projectPath": "C:\\Users\\Salar\\Desktop\\Git\\Album-Api-Week4\\Album-Api\\Album.Api\\Album.Api.csproj",
+        "projectPath": "C:\\Users\\Salar\\Documents\\GitHub\\Album-Api-Week4\\Album-Api\\Album.Api\\Album.Api.csproj",
         "packagesPath": "C:\\Users\\Salar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Salar\\Desktop\\Git\\Album-Api-Week4\\Album-Api\\Album.Api\\obj\\",
+        "outputPath": "C:\\Users\\Salar\\Documents\\GitHub\\Album-Api-Week4\\Album-Api\\Album.Api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Salar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,16 +55,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -77,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
