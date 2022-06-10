@@ -57,3 +57,7 @@
 [2022/06/10 02:07:15]	[Return GetHello method]
 [2022/06/10 02:07:15]	[GetGreeting method, parameter name = Salar]
 [2022/06/10 02:07:15]	[Return GetGreeting method : Hello Salar]
+[2022/06/10 03:01:30]	[GetHello method, parameter name = World]
+[2022/06/10 03:01:30]	[Return GetHello method]
+[2022/06/10 03:01:30]	[GetGreeting method, parameter name = World]
+[2022/06/10 03:01:30]	[Return GetGreeting method : Hello World]
